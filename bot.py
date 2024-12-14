@@ -3,7 +3,7 @@ import requests
 import json
 from datetime import datetime, timedelta
 
-API_TOKEN = '7750964025:AAGi1yyk1lGGFKsW7yhpuNTFZUgLV7_GjWk'  # Замените на ваш токен
+API_TOKEN = 'API_TOKEN'  # Замените на ваш токен
 bot = telebot.TeleBot(API_TOKEN)
 
 # Словарь для хранения групп пользователей
